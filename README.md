@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-adegun
+- 👋 Hi, I’m Joseph Adegun
 - 👀 I’m interested in data science and analytics applicable to beam and accelerator physics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning for beam and accelerator tuning
