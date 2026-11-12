@@ -1,6 +1,6 @@
 - Hi, I’m Joseph
-- I’m interested in data science and analytics applicable to ion sources, beam and accelerator physics
-I am interested in collaborating with machine learning professionals to explore opportunities for optimizing beam and accelerator optics tuning.
+- I’m interested in applying data science and analytics to ion sources, beam physics, and accelerators.
+- I’m also eager to collaborate with machine learning professionals to explore ways to optimize beam and accelerator optics tuning.
 
 <!---
 j-adegun/j-adegun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
